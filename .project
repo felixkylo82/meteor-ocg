@@ -3,7 +3,7 @@
 	<name>meteor-ocg</name>
 	<comment></comment>
 	<projects>
-		<project>meteor-ocg</project>
+		<project>meteor-core</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

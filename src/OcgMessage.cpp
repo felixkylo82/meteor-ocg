@@ -12,7 +12,8 @@
 
 namespace meteor {
 	namespace ocg {
-		BODY_FIELDS_MAP_INIT_BEGIN(lookup_request) BODY_FIELDS_MAP_INIT_ADD_FIELD(lookup_request, type_of_service)
+		BODY_FIELDS_MAP_INIT_BEGIN(lookup_request)
+		BODY_FIELDS_MAP_INIT_ADD_FIELD(lookup_request, type_of_service)
 		BODY_FIELDS_MAP_INIT_ADD_FIELD(lookup_request, protocol_type)
 		BODY_FIELDS_MAP_INIT_END
 
